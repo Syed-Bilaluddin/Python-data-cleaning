@@ -1,0 +1,10 @@
+Name,Email,City,Monthly_Sales,Valid_Email,Needs_Review
+Ali Khan,ali@gmail.com,Karachi,50000.0,True,False
+Sara Ahmed,sara@gmail.com,Lahore,75000.0,True,False
+Usman Ali,usman@gmail.com,Karachi,60000.0,True,False
+Fatima Noor,fatima@gmail.com,Islamabad,,True,True
+Ahmed Raza,ahmed@gmail.com,Islamabad,90000.0,True,False
+Bilal Ahmed,bilal@gmail.com,Karachi,45000.0,True,False
+Hassan Malik,hassan@gmail.com,Lahore,,True,True
+Ayesha Khan,ayesha@gmail.com,Karachi,85000.0,True,False
+Ali Khan,@gmail.com,Karachi,5000.0,False,False
